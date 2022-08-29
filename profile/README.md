@@ -8,7 +8,7 @@
 - 💬 Ask me about **JavaScript, Typ
 eScript, Dart, Angular, RxJS, Flutter, RxDart, Redux**
 
-- 📫 How to reach me **info@jsdaddy.io**
+- 📫 How to reach us **info@jsdaddy.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
