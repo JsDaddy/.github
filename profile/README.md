@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsdaddy&label=Profile%20views&color=0e75b6&style=flat" alt="jsdaddy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsdaddy" alt="jsdaddy" /></a> </p>
-
 - 👯 I’m looking to collaborate on [https://github.com/JsDaddy/ngx-mask](https://github.com/JsDaddy/ngx-mask)
 
 - 🤝 I’m looking for help with [ngx-mask](https://github.com/JsDaddy/ngx-mask)
