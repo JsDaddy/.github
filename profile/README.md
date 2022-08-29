@@ -5,12 +5,12 @@
 
 - 🤝 We are looking for help with [ngx-mask](https://github.com/JsDaddy/ngx-mask)
 
-- 💬 Ask me about **JavaScript, Typ
+- 💬 Ask us about **JavaScript, Typ
 eScript, Dart, Angular, RxJS, Flutter, RxDart, Redux**
 
 - 📫 How to reach us **info@jsdaddy.io**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/company/jsdaddy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/jsdaddy/" height="30" width="40" /></a>
 </p>
