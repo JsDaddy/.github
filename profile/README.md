@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsdaddy&label=Profile%20views&color=0e75b6&style=flat" alt="jsdaddy" /> </p>
 
-- 👯 I’m looking to collaborate on [https://github.com/JsDaddy/ngx-mask](https://github.com/JsDaddy/ngx-mask)
+- 🤝 We are looking for help with [ngx-mask](https://github.com/JsDaddy/ngx-mask)
 
-- 🤝 I’m looking for help with [ngx-mask](https://github.com/JsDaddy/ngx-mask)
-
-- 💬 Ask me about **JavaScript, TypeScript, Dart, Angular, RxJS, Flutter, RxDart, Redux**
+- 💬 Ask me about **JavaScript, Typ
+eScript, Dart, Angular, RxJS, Flutter, RxDart, Redux**
 
 - 📫 How to reach me **info@jsdaddy.io**
 
