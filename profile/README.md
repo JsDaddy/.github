@@ -7,7 +7,7 @@
 
 - 💬 Ask us about **JavaScript, TypeScript, Dart, Angular, RxJS, Flutter, RxDart, Redux**
 
-- 📫 How to reach us **info@jsdaddy.io**
+- 📫 How to reach us **career@jsdaddy.io**
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
