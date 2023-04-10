@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, We are JSDaddy</h1>
-<h3 align="center">Team of passionate Web and Cross-platform Mobile Developers</h3>
+<h3 align="center">Team of passionate Web and Multi-platform Applications Developers</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsdaddy&label=Profile%20views&color=0e75b6&style=flat" alt="jsdaddy" /> </p>
 
