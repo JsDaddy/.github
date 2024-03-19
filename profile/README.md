@@ -5,7 +5,7 @@
 
 - 🤝 We are looking for help with [ngx-mask](https://github.com/JsDaddy/ngx-mask)
 
-- 💬 Ask us about **JavaScript, TypeScript, Dart, Angular, RxJS, Flutter, RxDart, Redux**
+- 💬 Ask us about **JavaScript, TypeScript, NodeJS, Dart, Angular, React, NextJS, NestJS, RxJS, Flutter, RxDart, Redux**
 
 - 📫 How to reach us **career@jsdaddy.io**
 
